@@ -99,7 +99,7 @@ def main():
     
     title='Spotify Song Recommender based on Surrounding Soundscape'
     st.title(title)
-    st.text('Testing , one, two, three')
+    st.text('A song recommender integrated with Spotify API based on the surrounding acoustic scene')
     st.text('')
     st.text('')
     
